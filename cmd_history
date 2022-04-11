@@ -1,0 +1,24 @@
+cd /mnt
+cd U*
+ls
+cd c
+ls
+cd U*
+ls
+cd vbore
+ls
+cd Dr*
+ls
+cd crypto
+ls
+cd F*
+ls
+mkdir Final_Project
+cd F*
+cd /mnt/c/Users/vbore/Dropbox/crypto/Final_project
+python3 CLIENT.py
+vim Cry*
+python3 CLIENT.py
+vim Cry*
+python3 CLIENT.py
+history -w cmd_history
